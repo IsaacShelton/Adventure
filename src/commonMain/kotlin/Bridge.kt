@@ -1,0 +1,1 @@
+class Bridge(x: Int, y: Int, w: Int) : Region(x, y, w, 4)

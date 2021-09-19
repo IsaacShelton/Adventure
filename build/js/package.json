@@ -1,0 +1,14 @@
+{
+  "name": "Summer",
+  "version": "4.10.1",
+  "private": true,
+  "workspaces": [
+    "packages/Summer"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

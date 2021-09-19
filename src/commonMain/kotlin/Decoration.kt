@@ -1,0 +1,1 @@
+class Decoration(var texture: String, x: Int, y: Int, w: Int, h: Int) : Region(x, y, w, h)

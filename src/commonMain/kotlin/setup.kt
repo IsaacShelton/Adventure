@@ -1,0 +1,4 @@
+
+fun setup() {
+    gotoTitleScreen()
+}

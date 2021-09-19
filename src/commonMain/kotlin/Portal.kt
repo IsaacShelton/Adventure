@@ -1,0 +1,1 @@
+class Portal(x: Int, y: Int) : Region(x + 48, y + 64, 32, 64, x, y, 128, 128)

@@ -1,0 +1,15 @@
+enum class Decor {
+    NONE,
+    BUSH,
+    FLOWERA,
+    FLOWERB,
+    ROCKA,
+    ROCKB,
+    MUSHROOMA,
+    MUSHROOMB,
+    STUMP,
+    GRASSA,
+    GRASSB,
+    GRASSC,
+    FENCE,
+}

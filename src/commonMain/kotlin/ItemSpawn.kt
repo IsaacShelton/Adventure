@@ -1,0 +1,1 @@
+class ItemSpawn(var item: Item, x: Int, y: Int) : Region(x ,y, 64,64)

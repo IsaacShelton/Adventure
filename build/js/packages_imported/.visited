@@ -1,0 +1,121 @@
+{
+  "version": "9",
+  "items": {
+    "82d9df85c2a290f8d3b52a8b54fe5182": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.5.1/598985335f5abc3b4a3b013c59b8df9ca35e342c/kotlinx-coroutines-core-jsir-1.5.1.klib"
+    },
+    "e1e03b094e97fc12f05898b8ec97e015": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.16.2/1b918aa420cf4592c5201e35a8a6c5ae28ef981a/atomicfu-jsir-0.16.2.klib"
+    },
+    "e15bb4279f87f9c7780d9aa360efe75d": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.5.20/e8671435e8cbd97524d138c102c040ef0876f70d/kotlin-stdlib-js-1.5.20.jar",
+      "target": "kotlin/1.5.20"
+    },
+    "6f5c74ee2b4c886580e62c7c0840b8ea": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/3d79dbd48bf605f4aac1e7028981a1953e245cbb/kotlin-stdlib-common-1.5.20.jar"
+    },
+    "9e71072a5066661dcc512b171bc98e14": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klock/klock-js/2.2.0/23fb700e41c8a5e0551816f1e2537c82afc5bae8/klock-jsir-2.2.0.klib"
+    },
+    "334bb41d7bf1a0975b192e71b137410c": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.kmem/kmem-js/2.2.1/28c284c26ae588cdb9eee01363c255f34d3f4a5/kmem-jsir-2.2.1.klib"
+    },
+    "e0e890fe248d5e3fbebf268ca70fd7ce": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.kds/kds-js/2.2.1/ec1882ea39766f1952c943a45cd87adcf831cc27/kds-jsir-2.2.1.klib"
+    },
+    "36e0f67c9e81017073f2e739bdac5ba4": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.krypto/krypto-js/2.2.0/e675d6ec57a945cc517a30f1605ba3834dd1b28/krypto-jsir-2.2.0.klib"
+    },
+    "609138610e776d5fcdff58199c041978": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge2/korge-js/2.2.1/7e5289942f1b211418465b5bf51f1cf62d020b6d/korge-jsir-2.2.1.klib"
+    },
+    "51487c3feb04fc61c6b02fca94bd1967": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korgw/korgw-js/2.2.2/ef4c8a5a61ed6f69a872574e1f1e2571fe801650/korgw-jsir-2.2.2.klib"
+    },
+    "c1a64875946310139767f5001473ff83": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korim/korim-js/2.2.2/9d94083da92ca4d8d8ad8951134a751d2751e511/korim-jsir-2.2.2.klib"
+    },
+    "eaaff38e63485d15381bf2d18d088873": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korio/korio-js/2.2.1/aaf32c0410f98962a5574ad67bf782f6c121624f/korio-jsir-2.2.1.klib"
+    },
+    "18b57be9764c9eb94c56e737b2ac3325": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klogger/klogger-js/2.2.0/bdebb8694417245ccb9d81b8a76ab6ed48ae8bc5/klogger-jsir-2.2.0.klib"
+    },
+    "fdaa126f29262cc9bf71adc4dbaa180f": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korma/korma-js/2.2.2/512c9f5fb97d8d7a2f2f8e42733741a54ab1c101/korma-jsir-2.2.2.klib"
+    },
+    "6e007c47d7bf8f0610c6041d7b6619e5": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korau/korau-js/2.2.1/33665501c5293098c9fbdcc87ab4b57714e80d/korau-jsir-2.2.1.klib"
+    },
+    "dadc31843d9a86710882c3cce3779b03": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korinject/korinject-js/2.2.0/6fd08e0dc287169001eee644bfd2170c6c9a9e24/korinject-jsir-2.2.0.klib"
+    },
+    "5542a7452be32c42e85505f278a4688b": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korte/korte-js/2.2.0/3393a85527684960036540e3c0985056713e5ed2/korte-jsir-2.2.0.klib"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.5.20/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.5.20.jar",
+      "target": "kotlin-test-js-runner/1.5.20"
+    },
+    "05940e0200ff600e7dd6ed3552d3c52e": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.5.20/6d38484b53b3db766cf080268dcc5fbf63aa9e5e/kotlin-test-js-1.5.20.jar",
+      "target": "kotlin-test/1.5.20"
+    },
+    "15329003ff46d95a3b096298e1e5c7cb": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.5.0/217834c27f3ba5f28b897fead52238f6f30febb1/kotlinx-coroutines-core-jsir-1.5.0.klib"
+    },
+    "de526995f2d5b3f2adcec5ff451757e9": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.16.1/a462e9d32ae4d38851d2c831025981198f10f75b/atomicfu-jsir-0.16.1.klib"
+    },
+    "2af3a7d5d3a191e783b02e728aae3a71": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.5.21/9b22e0c2e0dcf2ba9f27e45a48944d05b0384bc3/kotlin-stdlib-js-1.5.21.jar",
+      "target": "kotlin/1.5.21"
+    },
+    "fbd459a29ce2389973599bffedb8bb20": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.21/cc8bf3586fd2ebcf234058b9440bb406e62dfacb/kotlin-stdlib-common-1.5.21.jar"
+    },
+    "e064dc764344faabf045b000767a8a78": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klock/klock-js/2.3.2/b1c6225f32aa910b04208f2774518eee2a576cd0/klock-js-2.3.2.klib"
+    },
+    "cbd288e8be0027e23c2cf1a750d5d1d6": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.kmem/kmem-js/2.3.2/8951301682c3a2ec3af19a6ea9900a419b465252/kmem-js-2.3.2.klib"
+    },
+    "7bde4eb1e106c6a8918cef01caffbdba": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.kds/kds-js/2.3.2/2bdc856a57162fcdb229924eeb5735c6149fb4d0/kds-js-2.3.2.klib"
+    },
+    "2bddaff5e0214a0621cb692161f78ac1": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.krypto/krypto-js/2.3.2/d1132edb70947ec8afffa1a6350fbfec45e6f9b/krypto-js-2.3.2.klib"
+    },
+    "b823270855457ddff30ec859cc83f75d": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korge2/korge-js/2.3.2/56ec8ac7bd671830d06d872c79f58e7ff9d8e64/korge-js-2.3.2.klib"
+    },
+    "a1d1f0ab072c79971064c58621fbe738": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korgw/korgw-js/2.3.2/da064967f18c258a926cfb6b0b502044f94fba4e/korgw-js-2.3.2.klib"
+    },
+    "9b096d87e20ade3f1b8bd2f3f00c4af2": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korim/korim-js/2.3.2/70c9d967792265af96c32db0a0385c37700063de/korim-js-2.3.2.klib"
+    },
+    "19dce247c8ebe1bd0967fd7afee47441": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korio/korio-js/2.3.2/f6942815bca207c2b5fcfcb4cd4439c48055c633/korio-js-2.3.2.klib"
+    },
+    "3cc87655eaff94750e37906fa6d10f0e": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.klogger/klogger-js/2.3.2/51e24682ad4e30ee42b1562bfc66b0702af99870/klogger-js-2.3.2.klib"
+    },
+    "f36ecd0d4f9ea6be6073583f10ee9bb0": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korma/korma-js/2.3.2/d492cc73d521f7ce1c9fc4105e07fec1761ab9b3/korma-js-2.3.2.klib"
+    },
+    "9f7de13b984946b48a4209e09b44733e": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korau/korau-js/2.3.2/5c89484ae5a1cf729b2ce76a00b18b0037c5c75d/korau-js-2.3.2.klib"
+    },
+    "f883d2b6b0b107429c1ab0548c68e174": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korinject/korinject-js/2.3.2/d5e700b4092df821ecbc6beecc40497e272de3d7/korinject-js-2.3.2.klib"
+    },
+    "4132e76aba560605a861172726fb9fc1": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/com.soywiz.korlibs.korte/korte-js/2.3.2/8992db14418a24b214548a860dc677e9d71e5ffe/korte-js-2.3.2.klib"
+    },
+    "86f9bdd1a041703da52b8693255b9d51": {
+      "src": "/Users/isaac/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.5.21/db9c8e994715fb1edd5bef91db179b60347cbfc9/kotlin-test-js-1.5.21.jar",
+      "target": "kotlin-test/1.5.21"
+    }
+  }
+}

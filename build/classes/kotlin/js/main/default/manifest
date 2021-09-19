@@ -1,0 +1,7 @@
+builtins_platform=JS
+unique_name=Summer
+compiler_version=1.5.21
+depends=com.soywiz.korlibs.korge2\:korge com.soywiz.korlibs.korgw\:korgw com.soywiz.korlibs.korim\:korim com.soywiz.korlibs.korau\:korau com.soywiz.korlibs.korio\:korio com.soywiz.korlibs.korinject\:korinject com.soywiz.korlibs.korma\:korma org.jetbrains.kotlinx\:kotlinx-coroutines-core com.soywiz.korlibs.klock\:klock com.soywiz.korlibs.kmem\:kmem com.soywiz.korlibs.kds\:kds com.soywiz.korlibs.krypto\:krypto org.jetbrains.kotlinx\:atomicfu com.soywiz.korlibs.korte\:korte com.soywiz.korlibs.klogger\:klogger kotlin
+abi_version=1.5.0
+metadata_version=1.4.1
+ir_version=1.0.0

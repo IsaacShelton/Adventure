@@ -1,0 +1,1 @@
+class Lake(x: Int, y: Int, w: Int, h: Int) : Region(x, y, w, h)

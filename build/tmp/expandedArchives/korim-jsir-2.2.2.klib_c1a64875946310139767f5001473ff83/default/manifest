@@ -1,0 +1,7 @@
+builtins_platform=JS
+unique_name=com.soywiz.korlibs.korim\:korim
+ir_version=1.0.0
+compiler_version=1.5.20
+depends=com.soywiz.korlibs.korio\:korio com.soywiz.korlibs.korma\:korma com.soywiz.korlibs.klock\:klock com.soywiz.korlibs.kds\:kds com.soywiz.korlibs.kmem\:kmem com.soywiz.korlibs.krypto\:krypto com.soywiz.korlibs.klogger\:klogger org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin
+abi_version=1.5.0
+metadata_version=1.4.1

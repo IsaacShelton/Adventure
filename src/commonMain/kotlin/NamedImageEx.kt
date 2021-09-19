@@ -1,0 +1,1 @@
+class NamedImageEx(var name: String, var xOffset: Int, var yOffset: Int, var width: Int, var height: Int)
