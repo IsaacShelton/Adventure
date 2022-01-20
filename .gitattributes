@@ -1,0 +1,17 @@
+*.js linguist-generated
+*.md linguist-generated
+*.ts linguist-generated
+*.xml linguist-generated
+*.yml linguist-generated
+*.json linguist-generated
+*.s linguist-generatedh
+gradlew_wine linguist-generated
+gradlew_win linguist-generated
+gradlew_linux linguist-generated
+gradlew linguist-generated
+travis-gh-pages linguist-generated
+prepare-tests linguist-generated
+publish-built-version linguist-generated
+*.jst linguist-generated
+LICENSE linguist-generated
+
