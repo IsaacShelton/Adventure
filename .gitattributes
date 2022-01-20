@@ -4,7 +4,6 @@
 *.xml linguist-generated=true
 *.yml linguist-generated=true
 *.json linguist-generated=true
-*.s linguist-generatedh=true
 gradlew_wine linguist-generated=true
 gradlew_win linguist-generated=true
 gradlew_linux linguist-generated=true
@@ -15,4 +14,6 @@ publish-built-version linguist-generated=true
 *.jst linguist-generated=true
 LICENSE linguist-generated=true
 *.html linguist-generated=true
+index.html linguist-generated=true
+props.html linguist-generated=true
 
